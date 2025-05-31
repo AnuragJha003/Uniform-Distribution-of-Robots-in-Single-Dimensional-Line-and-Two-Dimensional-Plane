@@ -59,3 +59,22 @@ Simulations include:
 - **Live animation**
 - **Frame snapshots** for LaTeX reports
 - **Labeled robot IDs and coordinates**
+---
+
+## 👨‍💻 Contributors
+
+This project was developed as part of the final year curriculum under the Department of Information Technology, Jadavpur University.
+
+### 🧑‍🎓 Student Contributors
+- **Anurag Jha**  
+- **Ayantik Bhaumik**  
+- **Hrishikesh Majumdar**
+
+### 🧑‍🏫 Project Guide
+- **Dr. Sruti Gan Chaudhuri**  
+  *Assistant Professor*  
+  Department of Information Technology  
+  Jadavpur University
+
+---
+
